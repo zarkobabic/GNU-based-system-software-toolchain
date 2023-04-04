@@ -25,7 +25,7 @@ This project is concerned with implementing a complete toolchain for translating
 - Flex [Flex is utilized as part of the lexing process]
 - Bison [Bison is employed in the parsing phase]
 - The C++ Standard Template Library (STL) [It is used in conjunction with C++ to facilitate the implementation of data structures and operations performed on them]
-- Makefile [Makefile is used to automate the building and compilation of project by specifying dependencies and the steps required to build the project]
+- Make [Make is used to automate the building and compilation of project by specifying dependencies and the steps required to build the project]
 
 
 [Back To The Top](#gnu-based-system-software-toolchain)
