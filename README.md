@@ -137,7 +137,6 @@ SOFTWARE.
 ## Author Info
 
 Žarko Babić
-
 <br />
 
 <i><b> Student at School of Electrical engineering at University of Belgrade </b></i>
