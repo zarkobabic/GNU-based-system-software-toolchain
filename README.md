@@ -142,10 +142,6 @@ SOFTWARE.
 <i> [Student at School of Electrical engineering at University of Belgrade] </i>
 
 [Back To The Top](#gnu-based-system-software-toolchain)
-Footer
+
+<br />
 © 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Statu
