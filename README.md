@@ -78,6 +78,30 @@ clean_assembly command will only delete all auxiliary files that were created du
 ---
 
 ## References
+Make:
+```html
+    https://www.gnu.org/software/make/
+```
+Flex:
+```html
+    https://github.com/westes/flex
+```
+Bison:
+```html
+    https://www.gnu.org/software/bison/manual/
+```
+GNU assembly documentation (used for inspiration)
+```html
+    https://sourceware.org/binutils/docs/as/
+```
+
+GNU linker documentation (used for inspiration)
+```html
+    https://ftp.gnu.org/old-gnu/Manuals/ld-2.9.1/html_mono/ld.html
+```
+
+
+
 [Back To The Top](#gnu-based-system-software-toolchain)
 
 ---
