@@ -136,8 +136,7 @@ SOFTWARE.
 
 ## Author Info
 
-- Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
-- Website - [James Q Quick](https://jamesqquick.com)
+Žarko Babić - Student at School of Electrical engineering at University of Belgrade
 
 [Back To The Top](#gnu-based-system-software-toolchain)
 Footer
