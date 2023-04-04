@@ -63,7 +63,7 @@ Using the make tool we can run several commands:
     make all (or just make)
 ```
 
-Using the make command of the Make tool, the script will be started automatically for the file named make in the current directory, ie our makefile file. Its role is to start flex and bison and create a parser and lexer to which the .s assembler file we want to assemble will be passed later.
+Using the make command of the Make tool, the script will be started automatically for the file named <b>makefile</b> in the current directory, ie our makefile file. Its role is to start flex and bison and create a parser and lexer to which the .s assembler file we want to assemble will be passed later.
 
 <br />
 
