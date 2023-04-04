@@ -136,10 +136,10 @@ SOFTWARE.
 
 ## Author Info
 
-Žarko Babić
+<b>Žarko Babić</b>
 <br />
 
-<i><b> Student at School of Electrical engineering at University of Belgrade </b></i>
+<i> [Student at School of Electrical engineering at University of Belgrade] </i>
 
 [Back To The Top](#gnu-based-system-software-toolchain)
 Footer
