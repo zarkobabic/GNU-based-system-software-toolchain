@@ -136,7 +136,8 @@ SOFTWARE.
 
 ## Author Info
 
-Žarko Babić - Student at School of Electrical engineering at University of Belgrade
+Žarko Babić
+<i><b> Student at School of Electrical engineering at University of Belgrade </b></i>
 
 [Back To The Top](#gnu-based-system-software-toolchain)
 Footer
