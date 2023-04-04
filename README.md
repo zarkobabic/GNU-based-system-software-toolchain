@@ -35,7 +35,21 @@ This project is concerned with implementing a complete toolchain for translating
 ## How To Use
 
 #### Installation
+The tool chain was designed and implemented to be used on the Linux operating system, and therefore uses the make tool to link all files. (If you want to use this tool from the Windows operating system, you need to use a tool that will allow you to run <b>Make</b> inside the Windows operating system, such as <b>Cygwin</b>)
+<br/ >
+You can find more about the Make tool and its use, as well as the documentation on the website:
+```html
+    https://www.gnu.org/software/make/
+```
+In addition to the Make tool, <b>Flex</b> and <b>Bison</b> tools were also used in this project. Flex was used as a lexeme generator, while Bison was used for parsing. You can find more about these tools, as well as their documentation for use, at the following link:
 
+```html
+    https://github.com/westes/flex
+```
+
+```html
+    https://www.gnu.org/software/bison/manual/
+```
 
 
 #### API Reference
