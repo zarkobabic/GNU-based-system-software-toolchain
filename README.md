@@ -55,10 +55,24 @@ In addition to the Make tool, <b>Flex</b> and <b>Bison</b> tools were also used 
 
 
 #### API Reference
+Using the make tool we can run several commands:
+
+<br />
 
 ```html
-    <p>dummy code</p>
+    make all (or just make)
 ```
+
+Using the make command of the Make tool, the script will be started automatically for the file named make in the current directory, ie our makefile file. Its role is to start flex and bison and create a parser and lexer to which the .s assembler file we want to assemble will be passed later.
+
+<br />
+
+```html
+    clean_assembly
+```
+clean_assembly command will only delete all auxiliary files that were created during assembly creation (auxiliary files used when creating lexer and parser)
+
+
 [Back To The Top](#gnu-based-system-software-toolchain)
 
 ---
