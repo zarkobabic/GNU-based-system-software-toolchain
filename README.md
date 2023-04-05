@@ -3,7 +3,7 @@
 ![systemSoftware](https://user-images.githubusercontent.com/92127059/229947159-e947a0cf-92ca-41ab-a1a3-4649e75fef43.png)
 
 
-> The implementation of a comprehensive toolchain that replicates the functionalities of the GNU toolchain tools will be used to convert an assembly (.s) file into executable machine code..
+> The implementation of a comprehensive toolchain, which replicates the functionalities of the GNU toolchain tools and will be used to convert an assembly (.s) file into executable machine code.
 ---
 
 ### Table of Contents
